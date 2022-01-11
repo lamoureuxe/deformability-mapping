@@ -1,7 +1,6 @@
 % Mechanical Engineering 338A - Continuum Mechanics
-% Erik Lamoureux - 006321065
+% Erik Lamoureux
 % July 13, 2018
-% Homework 1
 
 %% Problem 1: Simple deformation mapping questions (35)
 
