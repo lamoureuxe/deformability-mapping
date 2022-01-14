@@ -1,5 +1,6 @@
 % Mechanical Engineering 338A - Continuum Mechanics
 % Erik Lamoureux
+% Stanford University
 % July 13, 2018
 
 %% Problem 1: Simple deformation mapping questions (35)
